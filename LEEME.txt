@@ -1,0 +1,12 @@
+Métodos en los Servlets
+    ExcursionServlet -> Todos han sido realizados por Brais Campaña
+
+    ReservaServlet -> Todos han sido realizados por Benjamin Mato
+
+
+Métodos en RestClientExcursionService
+        addExcursion, updateExcursion, findExcursiones -> Realizados por Brais Campaña
+
+        addReserva, cancelReserva, findReserva -> Realizados por Benjamin Mato
+
+En resumen, todo lo relacionado con Excursiones ha sido realizado por Brais Campaña y todo lo relacionado con Reserva, por Benjamin Mato
